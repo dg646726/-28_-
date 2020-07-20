@@ -17,6 +17,7 @@ private:
 	vector<InfoAboutCar> cars;
 
 public:
+
 };
 
 
